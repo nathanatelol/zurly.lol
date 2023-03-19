@@ -14,7 +14,7 @@ $(document).ready(() => {
     },
     {
       name: 'spotify',
-      link: 'open.spotify.com/playlist/0Ts0XM8uMEpuhVwooDDaUj?si=99e33f2e0edb4a2c',
+      link: 'open.spotify.com/user/31v42o74y7gq2krt6byixmiboebe?si=f4cd8992f55d42ab',
     },
     {
       name: 'feds.lol',
@@ -116,7 +116,7 @@ $.getJSON(ipgeolocation, (data) => {
 
       clearCursor();
 
-      writeLine([`<i style='color: #F62459'>skidded by zurly#5555 </i>`], 120, 500, () => {
+      writeLine([`<i style='color: #F62459'>zurly#5555 </i>`], 120, 500, () => {
         timeouts.push(
           setTimeout(() => {
             if (app.skippedIntro) return;
