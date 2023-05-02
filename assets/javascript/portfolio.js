@@ -19,6 +19,10 @@ $(document).ready(() => {
     {
       name: 'feds.lol',
       link: 'feds.lol/ceo',
+    },
+       {
+      name: 'last.fm',
+      link: 'www.last.fm/user/zxqq',
     }
   ];
 
@@ -116,7 +120,7 @@ $.getJSON(ipgeolocation, (data) => {
 
       clearCursor();
 
-      writeLine([`<i style='color: #F62459'>zurly#5555 </i>`], 120, 500, () => {
+      writeLine([`<i style='color: #F62459'>zurly#0001 </i>`], 120, 500, () => {
         timeouts.push(
           setTimeout(() => {
             if (app.skippedIntro) return;
