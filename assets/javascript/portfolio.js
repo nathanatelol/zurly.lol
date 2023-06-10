@@ -17,8 +17,8 @@ $(document).ready(() => {
       link: 'open.spotify.com/user/31v42o74y7gq2krt6byixmiboebe?si=f4cd8992f55d42ab',
     },
     {
-      name: 'feds.lol',
-      link: 'feds.lol/ceo',
+      name: 'corrupt.bio',
+      link: 'corrupt.bio/z',
     },
        {
       name: 'tiktok',
