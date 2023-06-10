@@ -21,8 +21,8 @@ $(document).ready(() => {
       link: 'feds.lol/ceo',
     },
        {
-      name: 'last.fm',
-      link: 'www.last.fm/user/zxqq',
+      name: 'tiktok',
+      link: 'tiktok.com/@wbbm',
     }
   ];
 
