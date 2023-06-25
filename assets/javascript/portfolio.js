@@ -10,7 +10,7 @@ $(document).ready(() => {
   const links = [
     {
       name: 'my discord',
-      link: 'discord.com/users/745631824163766412',
+      link: 'discord.com/users/470943034284965908',
     },
     {
       name: 'spotify',
