@@ -120,7 +120,7 @@ $.getJSON(ipgeolocation, (data) => {
 
       clearCursor();
 
-      writeLine([`<i style='color: #F62459'>zurly#0001 </i>`], 120, 500, () => {
+      writeLine([`<i style='color: #F62459'>v45.#0000 </i>`], 120, 500, () => {
         timeouts.push(
           setTimeout(() => {
             if (app.skippedIntro) return;
